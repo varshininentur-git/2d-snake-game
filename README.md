@@ -19,7 +19,8 @@ A classic 2D Snake Game built using Java Swing.
 - Event Handling
 
 ## Preview 
-Snake Game Screenshot- (<img width="1187" height="1252" alt="Screenshot 2026-05-17 at 07 26 50" src="https://github.com/user-attachments/assets/c9e4e3c3-58a7-46ae-9285-d687b9652c7a" />)
+Snake Game Screenshot- (<img width="1187" height="1252" alt="WhatsApp Image 2026-05-17 at 8 07 40 AM" src="https://github.com/user-attachments/assets/b5718d52-30c2-4964-ac4b-ce8d8272f2b3" />)
+
 
 
 ## ▶️ How to Run
