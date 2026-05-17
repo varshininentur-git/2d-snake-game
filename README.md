@@ -1,4 +1,3 @@
-<img width="1352" height="878" alt="Screenshot 2026-05-17 at 07 26 50" src="https://github.com/user-attachments/assets/ed24bbe1-134f-447d-aa9b-489781d37e6e" />
 # 🐍 2d-snake-game
 
 A classic 2D Snake Game built using Java Swing.
